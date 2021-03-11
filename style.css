@@ -7,7 +7,6 @@
 header {
   width: 100%;
   padding: 20px 0;
-  margin: 0 auto;
   text-align: center;
 }
 
@@ -16,14 +15,13 @@ header {
   margin: 0px auto;
   padding: 15px 0;
   text-align: center;
-  border: solid gray;
-  border-top-width: 2px;
-  border-left-width: 0px;
-  border-right-width: 0px;
-  border-bottom-width: 2px;
+  border-top-width: 1px solid #848282;
+  border-bottom-width: 1px solid #848282;
 }
 
 .list {
+  list-style: none;
+  display: inline-block;
   padding: 20px;
 }
 
@@ -47,84 +45,72 @@ header {
   width: 200px;
   height: 200px;
   background-color: #e6ffe9;
-  display: flex;
 }
 
 .box2 {
   width: 200px;
   height: 200px;
   background-color: #cbffd3;
-  display: flex;
 }
 
 .box3 {
   width: 200px;
   height: 200px;
   background-color: #aeffbd;
-  display: flex;
 }
 
 .box4 {
   width: 200px;
   height: 200px;
   background-color: #93ffab;
-  display: flex;
 }
 
 .box5 {
   width: 200px;
   height: 200px;
   background-color: #f3ffd8;
-  display: flex;
 }
 
 .box6 {
   width: 200px;
   height: 200px;
   background-color: #edffbe;
-  display: flex;
 }
 
 .box7 {
   width: 200px;
   height: 200px;
   background-color: #e9ffa5;
-  display: flex;
 }
 
 .box8 {
   width: 200px;
   height: 200px;
   background-color: #e4ff8d;
-  display: flex;
 }
 
 .box9 {
   width: 200px;
   height: 200px;
   background-color: #d9e5ff;
-  display: flex;
 }
 
 .box10 {
   width: 200px;
   height: 200px;
   background-color: #bad3ff;
-  display: flex;
 }
 
 .box11 {
   width: 200px;
   height: 200px;
   background-color: #a4c6ff;
-  display: flex;
 }
 
 .box12 {
   width: 200px;
   height: 200px;
   background-color: #8eb8ff;
-  display: flex;
 }
 
 footer {
